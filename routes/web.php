@@ -29,3 +29,7 @@ Route::view('/statistics', 'statistics');
 
 //Route::view('/contact', 'contact', ['name' => 'Ludwik']);
 Route::get('/contact', 'ContactController@index');
+
+Route::view('/jokes', 'jokes');
+
+Route::view('/places', 'places');
