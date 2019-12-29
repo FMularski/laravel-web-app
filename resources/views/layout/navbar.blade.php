@@ -23,6 +23,9 @@
                 <a class="nav-link" href="/laravel-web-app/public/gallery">Galeria</a>
             </li>
             <li class="nav-item active">
+                <a class="nav-link" href="/laravel-web-app/public/pong">Pong</a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="/laravel-web-app/public/contact">Kontakt</a>
             </li>
           </ul>
