@@ -5,22 +5,22 @@
       <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link" href="/lab8/projekt18731/public/">Home</span></a>
+                <a class="nav-link" href="/laravel-web-app/public/">Home</span></a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="/lab8/projekt18731/public/statistics">Statystyki</a>
+                <a class="nav-link" href="/laravel-web-app/public/statistics">Statystyki</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="/lab8/projekt18731/public/jokes">Dowcipy</a>
+                <a class="nav-link" href="/laravel-web-app/public/jokes">Dowcipy</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="/lab8/projekt18731/public/places">Ciekawe miejsca</a>
+                <a class="nav-link" href="/laravel-web-app/public/places">Ciekawe miejsca</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="/lab8/projekt18731/public/galery">Galeria</a>
+                <a class="nav-link" href="/laravel-web-app/public/gallery">Galeria</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="/lab8/projekt18731/public/contact">Kontakt</a>
+                <a class="nav-link" href="/laravel-web-app/public/contact">Kontakt</a>
             </li>
           </ul>
       </div>

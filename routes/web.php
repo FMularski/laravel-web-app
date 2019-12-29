@@ -33,3 +33,5 @@ Route::get('/contact', 'ContactController@index');
 Route::view('/jokes', 'jokes');
 
 Route::view('/places', 'places');
+
+Route::view('/gallery', 'gallery');
