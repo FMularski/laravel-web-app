@@ -39,3 +39,5 @@ Route::view('/gallery', 'gallery');
 Route::view('/whatislaravel', 'whatislaravel');
 
 Route::view('/pong', 'pong');
+
+Route::view('/ranking', 'ranking');
