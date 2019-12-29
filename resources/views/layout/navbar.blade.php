@@ -17,6 +17,9 @@
                 <a class="nav-link" href="/laravel-web-app/public/places">Ciekawe miejsca</a>
             </li>
             <li class="nav-item active">
+                <a class="nav-link" href="/laravel-web-app/public/whatislaravel">Czym jest Laravel?</a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="/laravel-web-app/public/gallery">Galeria</a>
             </li>
             <li class="nav-item active">

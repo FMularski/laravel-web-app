@@ -35,3 +35,5 @@ Route::view('/jokes', 'jokes');
 Route::view('/places', 'places');
 
 Route::view('/gallery', 'gallery');
+
+Route::view('/whatislaravel', 'whatislaravel');
