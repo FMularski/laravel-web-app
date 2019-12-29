@@ -41,3 +41,5 @@ Route::view('/whatislaravel', 'whatislaravel');
 Route::view('/pong', 'pong');
 
 Route::view('/ranking', 'ranking');
+
+Route::view('/illussions', 'illussions');

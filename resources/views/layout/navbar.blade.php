@@ -23,6 +23,9 @@
                 <a class="nav-link" href="/laravel-web-app/public/ranking">Ranking</a>
             </li>
             <li class="nav-item active">
+                <a class="nav-link" href="/laravel-web-app/public/illussions">Iluzje</a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="/laravel-web-app/public/gallery">Galeria</a>
             </li>
             <li class="nav-item active">

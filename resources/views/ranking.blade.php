@@ -37,7 +37,7 @@
         <p>
             Python – język programowania wysokiego poziomu ogólnego przeznaczenia[3], o rozbudowanym pakiecie bibliotek standardowych[4], 
             którego ideą przewodnią jest czytelność i klarowność kodu źródłowego. Jego składnia cechuje się przejrzystością i 
-            zwięzłością[5][6].
+            zwięzłością.
             Python wspiera różne paradygmaty programowania: obiektowy, imperatywny oraz w mniejszym stopniu funkcyjny. Posiada w 
             pełni dynamiczny system typów i automatyczne zarządzanie pamięcią, będąc w tym podobnym do języków Perl, Ruby, Scheme 
             czy Tcl. Podobnie jak inne języki dynamiczne jest często używany jako język skryptowy. Interpretery Pythona są dostępne 
